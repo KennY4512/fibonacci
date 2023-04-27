@@ -16,5 +16,3 @@ int main()
         printf("%ld\n", c);
     }
 }
-
-/* Kenny LANG */
