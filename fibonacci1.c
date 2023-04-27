@@ -8,7 +8,7 @@ int main()
 
     printf("%ld\n%ld\n", a, b);
 
-    while (c < 999999999999999999)
+    while (c < 100)
     {
         c = a + b;
         a = b;
